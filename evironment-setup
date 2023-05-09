@@ -1,0 +1,13 @@
+# run this in your terminal
+
+npm init --yes
+npm install express --save
+npm install dotenv
+npm i morgan # middle ware
+npm i mongoose
+npm install mongodb
+npm i mongoose-unique-validator
+npm i dotenv
+npm i jsonwebtoken
+npm i bcrypt
+npm i cookie-parser
